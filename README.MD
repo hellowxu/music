@@ -1,6 +1,6 @@
-# 网易云音乐 API
+# 浅语听歌 API
 
-网易云音乐 Node.js API service
+浅语听歌 Node.js API service
 
 <p>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/v/NeteaseCloudMusicApi.svg" alt="Version"></a>
@@ -139,7 +139,7 @@
 116. batch批量请求接口
 117. 获取视频标签列表
 118. 全部mv
-119. 网易出品mv
+119. 浅语听歌出品mv
 
 
 ## 环境要求

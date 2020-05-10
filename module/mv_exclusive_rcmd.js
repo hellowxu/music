@@ -1,5 +1,3 @@
-// 网易出品
-
 module.exports = (query, request) => {
   const data = {
     offset: query.limit || 0,

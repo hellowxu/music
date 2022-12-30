@@ -37,7 +37,7 @@
   "description": "浅语听歌音乐 NodeJS 版 API",
   "devDependencies": {
     "intelli-espower-loader": "^1.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "power-assert": "^1.6.1"
   },
   "keywords": [
